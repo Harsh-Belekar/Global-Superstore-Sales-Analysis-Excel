@@ -3,6 +3,15 @@
 An **interactive Excel dashboard** analyzing sales performance of the [Global Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).  
 This project provides insights into **sales trends, product performance, regional growth, and customer segmentation** — helping decision-makers identify opportunities and optimize strategies.
 
+![Tool](https://img.shields.io/badge/Tool-Microsoft_Excel-green)
+![Feature](https://img.shields.io/badge/Feature-Power_Query-lightgreen)
+![Focus](https://img.shields.io/badge/Focus-Sales_Analysis-blue)
+![Analysis](https://img.shields.io/badge/Focus-Data_Visualization-orange)
+![Dashboard](https://img.shields.io/badge/Type-Interactive_Dashboard-yellow)
+![Domain](https://img.shields.io/badge/Domain-Retail_Analytics-orange)
+![ETL](https://img.shields.io/badge/Process-ETL-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ---
 
 ## 📸 Dashboard Preview
@@ -67,6 +76,10 @@ This project provides insights into **sales trends, product performance, regiona
 
 ---
 
-## 📧 Contact
+## 🧠 Author
 
-🔗 [LinkedIn – Harsh Belekar](https://www.linkedin.com/in/harshbelekar)
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | [GitHub](https://github.com/Harsh-Belekar)  
+📧 **harshbelekar74@gmail.com**
+
