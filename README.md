@@ -5,6 +5,14 @@ This project provides insights into **sales trends, product performance, regiona
 
 💼 This dashboard helps uncover key business insights from Global Superstore data, enabling better decisions on product, region, and customer strategies.
 
+![Tool](https://img.shields.io/badge/Tool-Microsoft_Excel-green)
+![Feature](https://img.shields.io/badge/Feature-Pivot_Analysis-lightgreen)
+![Focus](https://img.shields.io/badge/Focus-Sales_Analysis-blue)
+![Analysis](https://img.shields.io/badge/Focus-Data_Visualization-orange)
+![Dashboard](https://img.shields.io/badge/Type-Interactive_Dashboard-yellow)
+![Domain](https://img.shields.io/badge/Domain-Retail_Analytics-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ---
 
 ## 📸 Dashboard Preview
@@ -98,3 +106,4 @@ This project provides insights into **sales trends, product performance, regiona
 ---
 
 ### ⭐ If you found this project insightful, don’t forget to give it a star on [GitHub!](https://github.com/Harsh-Belekar)
+
