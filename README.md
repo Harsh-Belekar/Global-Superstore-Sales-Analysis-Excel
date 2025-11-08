@@ -101,9 +101,17 @@ This project provides insights into **sales trends, product performance, regiona
 1. Download the `Superstore_Dashboard.xlsx` file.  
 2. Open it in **Excel 2016 or later**.  
 3. Use the **slicers** to filter by *Year, Month, Region, Category,* or *Segment*.  
-4. Watch KPIs and charts update interactively to explore different insights.  
+4. Watch KPIs and charts update interactively to explore different insights.
+
+---
+
+## 🧠 Author
+
+**👤 Harsh Belekar**  
+📍 *Data Analyst | Python | SQL | Power BI | Excel | Data Visualization*  
+🌐 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 💻 [GitHub](https://github.com/Harsh-Belekar)  
+📧 **harshbelekar74@gmail.com**
 
 ---
 
 ### ⭐ If you found this project insightful, don’t forget to give it a star on [GitHub!](https://github.com/Harsh-Belekar)
-
