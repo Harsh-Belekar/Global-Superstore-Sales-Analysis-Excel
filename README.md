@@ -105,13 +105,15 @@ This project provides insights into **sales trends, product performance, regiona
 
 ---
 
-## 🧠 Author
+## 🧑‍💻 Author
 
 **👤 Harsh Belekar**  
-📍 *Data Analyst | Python | SQL | Power BI | Excel | Data Visualization*  
-🌐 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 💻 [GitHub](https://github.com/Harsh-Belekar)  
-📧 **harshbelekar74@gmail.com**
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
+📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
+
+📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
 
 ---
 
 ### ⭐ If you found this project insightful, don’t forget to give it a star on [GitHub!](https://github.com/Harsh-Belekar)
+
